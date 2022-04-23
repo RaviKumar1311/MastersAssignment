@@ -1,0 +1,14 @@
+[{
+    "Electronics": {
+        "Laptop": ["Macbook Pro", "Dell XPS","HP 455","Dell Vostro","Sony"],
+        "Mobile": ["Samsung S9", "iphone X", "iphone 8","Honor","Redmi"],
+        "Tablet":["Samsung tab","Realme Pad","iPad","Lenovo Pad"],
+        "TV":["Micromax","Nokia","Redmi","Onida","Tseries"]
+    },
+    "Sports": {
+        "Tennis": ["Wilson Tennis Racquet"],
+        "Cricket": ["MRF Cricket Bat"],
+        "Badminton":[],
+        "BasketBall":[]
+    }
+}]
